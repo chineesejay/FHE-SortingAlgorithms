@@ -1,7 +1,7 @@
 #FHE BubbleSort and AddtionSort
 This is the source of FHE BubbleSort and AddtionSort based on TFHE.
 
-**version 1.0** -- 2024.10.21
+**version 1.1** -- 2025.08.11
 
 
 # TFHE
